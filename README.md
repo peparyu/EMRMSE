@@ -1,2 +1,2 @@
 # EMRMSE
-Practical econometrics curs for students 
+Practical Econometrics Cours for students 
